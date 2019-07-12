@@ -1,6 +1,9 @@
 # "Practical" Lambda Calculus
 
-Code demonstrations for talk
+Code demonstrations for talk.
+
+- [Preceding slides on LC](https://speakerdeck.com/glebec/lambda-calc-talk-consensys-condensed-version)
+- [Original longer LC talk at](https://github.com/glebec/lambda-talk)
 
 ## 00 Misc
 
