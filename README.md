@@ -2,8 +2,8 @@
 
 Code demonstrations for talk.
 
-- [Preceding slides on LC](https://speakerdeck.com/glebec/lambda-calc-talk-consensys-condensed-version)
-- [Original longer LC talk at](https://github.com/glebec/lambda-talk)
+- [Preceding slides on LC](https://speakerdeck.com/glebec/lambda-calc-talk-smartly-dot-io-version)
+- [Original longer LC talk at Fullstack Academy](https://github.com/glebec/lambda-talk)
 
 ## 00 Misc
 
